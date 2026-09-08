@@ -1,0 +1,19 @@
+# .gitignore for Flutter
+
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+.android/
+.gradle/
+**/local.properties
+**/GeneratedPluginRegistrant.*
+
+# Android Studio
+*.iml
+
+# VS Code
+.vscode/
